@@ -1,0 +1,29 @@
+{
+    "name": "tutorial-template",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+	"first-lessons/rock-paper-scissors.md",
+	"first-lessons/night-light.md",
+	"first-lessons/name-badge.md",
+	"first-lessons/emotion-badge.md",
+	"first-lessons/step-counter.md",
+	"first-lessons/beating-heart.md",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -18,10 +18,10 @@ Some new blocks appear.  Find  ``||variables: set steps to 0||`` block and put i
 This sets the number stored in the ‘steps’ variable to 0 when our program starts.  
 
 ## 
-Next find the ``||input: onShake||`` block (in the Input category) and drag it into the code window.
+Next find the ``||input: on shake||`` block (in the Input category) and drag it into the code window.
 
 ## 
-Next find the ``||variables: change steps by 1||`` block (in the Variables category) and put it inside ``||input: onShake||``. 
+Next find the ``||variables: change steps by 1||`` block (in the Variables category) and put it inside ``||input: on shake||``. 
 
 This will increase the number stored in the ‘steps’ variable by 1 every time you shake or move the micro:bit. 
 

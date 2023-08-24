@@ -2,7 +2,7 @@
 
 This repository stores tutorials developed by the Micro:bit Educational Foundation for Microsoft MakeCode
 
-They are usually one component of a larger suite of material. Please see (microbit.org)[microbit.org] for the full listing of materials provided by the Micro:bit Educational Foundation
+They are usually one component of a larger suite of material. Please see [microbit.org](microbit.org) for the full listing of materials provided by the Micro:bit Educational Foundation
 
 ## First Lessons
 

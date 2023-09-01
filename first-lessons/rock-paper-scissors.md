@@ -11,11 +11,11 @@ In the Input category, find ``||input: on shake||`` and drag it into the code wi
 
 
 ## 
-In the Variables category, click on ``||variables: make a variable||`` and call it "random-number". 
+In the Variables category, click on ``||variables: make a variable||`` and call it 'random-number'. 
 
 
 ## 
-Find ``||variables: set random-number to 0||`` (in the Variables categpry) and drop it inside the ``||input: on shake||`` block. 
+Find ``||variables: set random-number to 0||`` (in the Variables category) and drop it inside the ``||input: on shake||`` block. 
 
 
 ## 

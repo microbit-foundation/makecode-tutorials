@@ -59,7 +59,7 @@ It will expand the code to have an ``||logic: else if||``.
 
 
 ## 
-Similar to before, find ``||logic: 0 = 0||`` (in Logic) and drop it on top of 'true' in the ``||logic: else if||``. 
+Similar to before, find ``||logic: 0 = 0||`` (in Logic) and drop it into the gap after 'else if' in the ``||logic: else if||``. 
 Find the ``||variables: random-number||`` block (in Variables) and drop it on top of the first 0. 
 
 
@@ -70,7 +70,7 @@ Then change the second 0 to 2.
 Find ``||basic: show icon||`` (in the Basic category) and put it under ``||logic: else if||``. 
 
 
-Change the heart to the large square icon (to represent a paper). 
+Change the heart to the large square icon (to represent paper). 
 
 
 ## 

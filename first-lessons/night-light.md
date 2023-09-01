@@ -4,7 +4,7 @@
 In this project, you’ll turn your micro:bit into a night light that switches on automatically when it gets dark. 
 
 ## 
-You don't need the ``||basic: on start||`` so drop it back into the toolbox (the middle section). 
+You don't need the ``||basic: on start||`` block, so drop it back into the toolbox (the middle section). 
 
 ## 
 Look in the Logic category and find the ``||logic: if true then else||`` block. 

@@ -11,11 +11,11 @@ In the Input category, find ``||input: on shake||`` and drag it into the code wi
 
 
 ## 
-In the Variables category, click on ``||variables: make a variable||`` and call it "random-number". 
+In the Variables category, click on ``||variables: make a variable||`` and call it 'random-number'. 
 
 
 ## 
-Find ``||variables: set random-number to 0||`` (in the Variables categpry) and drop it inside the ``||input: on shake||`` block. 
+Find ``||variables: set random-number to 0||`` (in the Variables category) and drop it inside the ``||input: on shake||`` block. 
 
 
 ## 
@@ -59,7 +59,7 @@ It will expand the code to have an ``||logic: else if||``.
 
 
 ## 
-Similar to before, find ``||logic: 0 = 0||`` (in Logic) and drop it on top of 'true' in the ``||logic: else if||``. 
+Similar to before, find ``||logic: 0 = 0||`` (in Logic) and drop it into the gap after 'else if' in the ``||logic: else if||``. 
 Find the ``||variables: random-number||`` block (in Variables) and drop it on top of the first 0. 
 
 
@@ -70,7 +70,7 @@ Then change the second 0 to 2.
 Find ``||basic: show icon||`` (in the Basic category) and put it under ``||logic: else if||``. 
 
 
-Change the heart to the large square icon (to represent a paper). 
+Change the heart to the large square icon (to represent paper). 
 
 
 ## 

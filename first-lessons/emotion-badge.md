@@ -23,9 +23,9 @@ Let’s test your code in the micro:bit on-screen simulator.
 Nothing will happen until you press button A on-screen.   Then the micro:bit will show a happy face. 
 
 ## 
-Now, let's code another button, so find the ``||input: on button B pressed||`` block (in the Input category).
+Now, let's add code for pressing button B.
 
-You can get a new ``||input: on button A pressed||`` and use the arrow next to A and change it to B.  
+You can get a new ``||input: on button A pressed||`` block (from the Input category) and use the arrow next to A to change it to B.  
 
 ## 
 Find the ``||basic: show icon||`` block (in the Basic category) and put it inside the ``||input: on button B pressed||`` block.
